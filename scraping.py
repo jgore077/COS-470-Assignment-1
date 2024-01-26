@@ -19,7 +19,7 @@ with open('text2.html','w',encoding='utf-8') as file:
     file.writelines(html_gf2.text)
     
 
-
+    
 
 # All the text inside text1 is inside a <pre>
 bs_gf1 = BeautifulSoup(html_gf1.text)
