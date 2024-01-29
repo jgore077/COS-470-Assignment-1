@@ -1,5 +1,11 @@
 This is the source code for the first assigment of University of Southern Maines Text Mining course.
 
+First step is to clone the repository
+
+```
+git clone https://github.com/jgore077/COS-470-Assignment-1
+```
+
 To run the program firstly you will need to install the requirements
 ```
 pip install -r requirements.txt
