@@ -13,5 +13,9 @@ Then after all the data has been collected run analysis.py
 ```
 python analysis.py
 ```
+Also if you want to see what the wordpiece tokenizer does to the supplied senetence run this command
+```
+python wordpiece.py
+```
 
 After doing this you will have 2 html files which are the scripts to the movies, 2 text files which contain Michael Corleone's dialgoue, 2 text files containing the words he has spoken, and 2 wordclouds for each movie.
